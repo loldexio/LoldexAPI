@@ -1,6 +1,6 @@
 # LoldexAPI
 
-There are 3 types of liqudity pools which helps propel LOLDEX to the top of the DEX platform rankings. All these require initial funding for listing companies 
+There are 2 types of liqudity pools which helps propel LOLDEX to the top of the DEX platform rankings.  
 
 ## Centralized
 Liquidiy pool with centralized partners
@@ -11,5 +11,3 @@ Requires your own trading account or connect with our partners
 ## Decentralized
 Liquidity pool with decentralized partners - 0x, WAVES, IDEX https://docs.idex.market/#tag/HTTP-API-Introduction
 
-## Our own pool
-Make your own liqudiity pool which includes LOLDEX tokens
