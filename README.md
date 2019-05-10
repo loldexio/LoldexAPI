@@ -1,13 +1,19 @@
 # LoldexAPI
 
-There are 2 types of liqudity pools which helps propel LOLDEX to the top of the DEX platform rankings.  
+Our API architecture    
 
 ## Centralized
 Liquidiy pool with centralized partners
-Example Python API Code with to our OKEX custom liqudiity pool
-LOLB Centralized - 130 exchanges including our own and LOLB Internal book
-Requires your own trading account or connect with our partners
+Up to 130 exchanges including our own managed pool
+Requires your own trading account, keyes or connect with our partners
+
+Added
+OkEX
 
 ## Decentralized
-Liquidity pool with decentralized partners - 0x, WAVES, IDEX https://docs.idex.market/#tag/HTTP-API-Introduction
+Liquidity pool with decentralized partners that are non ERC20
 
+WAVES, IDEX https://docs.idex.market/#tag/HTTP-API-Introduction
+
+Added
+0x
