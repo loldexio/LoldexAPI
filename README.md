@@ -1,6 +1,12 @@
 # LoldexAPI
 
-Our API architecture    
+This repo details our available API connections to our web service components for our Side chain and Front end application 
+
+Planned
+BCH
+BNB
+WAVES
+
 
 ## Centralized
 Liquidiy pool with centralized partners
@@ -11,9 +17,7 @@ Added
 OkEX
 
 ## Decentralized
-Liquidity pool with decentralized partners that are non ERC20
-
-WAVES, IDEX https://docs.idex.market/#tag/HTTP-API-Introduction
+Liquidity pool with decentralized partners that are non ERC20 i.e. WAVES and IDEX https://docs.idex.market/#tag/HTTP-API-Introduction
 
 Added
 0x
