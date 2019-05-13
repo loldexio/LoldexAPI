@@ -1,7 +1,7 @@
 # LoldexAPI
 
 
-This repo details our available API connections to our web service components for our Side chain and Front end application 
+This repo details our available API connections to our LOLDEX Sidechain  
 
 
 ## Web Server API for Centralized liqudity 
@@ -10,12 +10,13 @@ Up to 130 exchanges including our own managed pool
 Requires your own trading account, keyes or connect with our partners
 
 Added
-OkEX
+OkEX https://a0fjr4chcz-a0deud7sao-connect.au0-aws.kaleido.io 
 
 Planned
-BCH
-BNB
-WAVES
+BTC https://a0fjr4chcz-a0omx3iik2-connect.au0-aws.kaleido.io
+BCH https://a0fjr4chcz-a0p1yjzcpa-connect.au0-aws.kaleido.io
+BNB https://a0fjr4chcz-a0jr3hywq2-connect.au0-aws.kaleido.io
+WAVES https://a0fjr4chcz-a0dul00e25-connect.au0-aws.kaleido.io
 
 
 ## Side Chain for Decentralized liquidity 
