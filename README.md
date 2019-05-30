@@ -1,18 +1,19 @@
 # LoldexAPI
 
 
-This repo details our available API connections to our LOLDEX Sidechain  
+This repo details API python sample connections to our LOLDEX Sidechain  
 
 
 ## Web Server API for Centralized liqudity 
 Liquidiy pool with centralized partners
 Up to 130 exchanges including our own managed pool
-Requires your own trading account, keyes or connect with our partners
+Requires your own trading account, keyes  
 
-Added
-OkEX https://a0fjr4chcz-a0deud7sao-connect.au0-aws.kaleido.io 
+Exchange liquidity supported currently 
+OkEX, Bithumb, Gemini and Binance
+https://a0fjr4chcz-a0deud7sao-connect.au0-aws.kaleido.io 
 
-Planned
+Planned Blockchain liquidity
 BTC https://a0fjr4chcz-a0omx3iik2-connect.au0-aws.kaleido.io
 BCH https://a0fjr4chcz-a0p1yjzcpa-connect.au0-aws.kaleido.io
 BNB https://a0fjr4chcz-a0jr3hywq2-connect.au0-aws.kaleido.io
